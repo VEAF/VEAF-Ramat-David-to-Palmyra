@@ -1,0 +1,15 @@
+{
+  "name": "VEAF-Open-Training-Mission-Syria",
+  "version": "1.0.0",
+  "description": "OpenTraining mission in the Syria map",
+  "main": "",
+  "author": "Maddog",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VEAF-Open-Training-Mission.git"
+  },
+  "dependencies": {
+    "veaf-mission-creation-tools": "^5.0.0"
+  }
+}
