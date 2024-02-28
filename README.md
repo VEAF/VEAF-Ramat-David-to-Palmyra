@@ -2,6 +2,8 @@
 
 ## SITAC
 
+![SITAC](https://private-user-images.githubusercontent.com/10455897/308234270-be0392be-4fe4-4081-aa59-b8699cc0fbf1.jpg)
+
 ### Blue Forces
 
 Ramat David:
